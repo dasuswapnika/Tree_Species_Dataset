@@ -1,3 +1,10 @@
+Google Drive Link:https://drive.google.com/drive/folders/1xSqGo0JZPtppWr6_M_STx6y5KsIpnTWa
+
+google colab link:https://drive.google.com/drive/folders/1j9UXIRyEAFoNz3VNc95kndpfJ69GqOsQ
+trained in:https://colab.research.google.com/drive/1udI0KZqMveWfQpswjUUxnXC0eXcUtfL2
+
+
+
 # 🌳 Tree Intelligence Assistant
 
 This AI-powered app helps students and nature enthusiasts identify and explore tree species based on image, location, and tree attributes.
