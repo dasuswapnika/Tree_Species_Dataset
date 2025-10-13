@@ -1,20 +1,9 @@
-# Streamlit Web App
 streamlit==1.38.0
-
-# Lightweight TensorFlow CPU build (smaller than full tensorflow)
-tensorflow-cpu==2.17.0
-
-# Image Processing
+tensorflow-cpu==2.15.0
 pillow==10.3.0
 opencv-python-headless==4.10.0.84
-
-# Data Handling
 numpy==1.26.4
 pandas==2.2.2
-
-# Visualization
 matplotlib==3.9.2
-
-# HDF5 and protocol buffer (for TensorFlow models)
 h5py==3.10.0
 protobuf==4.25.3
